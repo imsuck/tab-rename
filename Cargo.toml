@@ -1,0 +1,9 @@
+[package]
+name = "tab-rename"
+version = "0.1.0"
+authors = ["imsuck"]
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+zellij-tile = "0.42.2"
