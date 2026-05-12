@@ -1,6 +1,6 @@
 [package]
 name = "tab-rename"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["imsuck"]
 edition = "2024"
 license = "MIT"
